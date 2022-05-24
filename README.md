@@ -121,6 +121,8 @@ Example:
 >  - TBS Tracer (2.4GHz)
 >  - Immersion Ghost (2.4GHz)
 >  - Frsky (2.4GHz)
+>  
+>  -- https://oscarliang.com/radio-transmitter/
 
 TBS - team blacksheep
 LRS - long range systems
