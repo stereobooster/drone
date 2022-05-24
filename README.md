@@ -88,3 +88,11 @@ Paid options:
 - https://www.youtube.com/c/JoelMelanieVlashof/playlists
 - https://www.youtube.com/c/Painless360/playlists
 
+## Solar RC
+
+- https://www.youtube.com/watch?v=nk2-mRIhF0Q
+- https://discuss.ardupilot.org/t/solar-rc-plane-300km-7h/60981
+- https://www.ijmer.com/papers/Vol3_Issue2/AZ32752758.pdf
+
+
+
