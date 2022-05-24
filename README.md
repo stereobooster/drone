@@ -99,3 +99,7 @@ Paid options:
 - https://www.fpv24.com/en/fpv-nurfluegler
 - https://inavfixedwinggroup.com/category/recommended-setups/long-range-setups/
 - https://www.fpvknowitall.com/ultimate-fpv-shopping-list/
+
+## Antenna Tracker
+
+- [DIY Simple RSSI Antenna Tracker using Arduino for less than $50!](https://www.youtube.com/watch?v=GGtqUXKE-ro)
