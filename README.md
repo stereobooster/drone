@@ -78,7 +78,7 @@ Paid options:
 - Ardupilot - for missions and long range
 - iNav - for missions and long range
 - ? https://reefwing.medium.com/a-review-of-open-source-flight-control-systems-2fe37239c9b6
-= ? https://blog.dronetrest.com/flight-controller-firmware/
+- ? https://blog.dronetrest.com/flight-controller-firmware/
 
 ## Blogs
 
@@ -113,3 +113,16 @@ aka Transmitter, Radio Transmitter, Radio
 
 Example:
 - [Eachine TX16S](https://www.banggood.com/Eachine-TX16S-Hall-Sensor-Gimbals-2_4GHz-16CH-Internal-Multi-protocol-RF-System-OpenTX-Radio-Transmitter-for-RC-Drone-p-1837632.html?p=CS101558118042016088&utm_campaign=mesh&utm_content=tanghao&cur_warehouse=CN)
+
+> The most popular RC systems used in FPV drones today:
+>
+>  - TBS Crossfire (868MHz/915MHz)
+>  - ExpressLRS / ELRS (2.4GHz and 868MHz/915MHz)
+>  - TBS Tracer (2.4GHz)
+>  - Immersion Ghost (2.4GHz)
+>  - Frsky (2.4GHz)
+
+TBS - team blacksheep
+LRS - long range systems
+
+https://github.com/openLRSng
