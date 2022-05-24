@@ -103,3 +103,13 @@ Paid options:
 ## Antenna Tracker
 
 - [DIY Simple RSSI Antenna Tracker using Arduino for less than $50!](https://www.youtube.com/watch?v=GGtqUXKE-ro)
+
+## Controller
+
+aka Transmitter, Radio Transmitter, Radio
+
+- [Introduction](https://www.youtube.com/watch?v=SrN6ps4NM10)
+- https://www.open-tx.org/radios.html
+
+Example:
+- [Eachine TX16S](https://www.banggood.com/Eachine-TX16S-Hall-Sensor-Gimbals-2_4GHz-16CH-Internal-Multi-protocol-RF-System-OpenTX-Radio-Transmitter-for-RC-Drone-p-1837632.html?p=CS101558118042016088&utm_campaign=mesh&utm_content=tanghao&cur_warehouse=CN)
