@@ -94,5 +94,8 @@ Paid options:
 - https://discuss.ardupilot.org/t/solar-rc-plane-300km-7h/60981
 - https://www.ijmer.com/papers/Vol3_Issue2/AZ32752758.pdf
 
+## Examples of flying wing setups
 
+- https://www.fpv24.com/en/fpv-nurfluegler
+- https://inavfixedwinggroup.com/category/recommended-setups/long-range-setups/
 
