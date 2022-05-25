@@ -11,9 +11,8 @@ digraph graphname {
 }
 ```
 
-VTOL - Vertical Take-Off and Landing
-FPV https://ardupilot.org/plane/docs/fpv-plane.html
-
+**VTOL** - Vertical Take-Off and Landing
+**FPV** https://ardupilot.org/plane/docs/fpv-plane.html
 
 ## Features
 
@@ -112,17 +111,17 @@ aka Transmitter, Radio Transmitter, Radio
 - https://www.open-tx.org/radios.html
 
 Example:
+
 - [Eachine TX16S](https://www.banggood.com/Eachine-TX16S-Hall-Sensor-Gimbals-2_4GHz-16CH-Internal-Multi-protocol-RF-System-OpenTX-Radio-Transmitter-for-RC-Drone-p-1837632.html?p=CS101558118042016088&utm_campaign=mesh&utm_content=tanghao&cur_warehouse=CN)
 
-> The most popular RC systems used in FPV drones today:
+> - [UHF RC](https://www.youtube.com/watch?v=anLwhavmA1k) (433MHz)
+> - TBS Crossfire (868MHz/915MHz)
+> - ExpressLRS / ELRS (2.4GHz and 868MHz/915MHz)
+> - TBS Tracer (2.4GHz)
+> - Immersion Ghost (2.4GHz)
+> - Frsky (2.4GHz)
 >
->  - TBS Crossfire (868MHz/915MHz)
->  - ExpressLRS / ELRS (2.4GHz and 868MHz/915MHz)
->  - TBS Tracer (2.4GHz)
->  - Immersion Ghost (2.4GHz)
->  - Frsky (2.4GHz)
->  
->  -- https://oscarliang.com/radio-transmitter/
+> -- https://oscarliang.com/radio-transmitter/
 
 TBS - team blacksheep
 LRS - long range systems
