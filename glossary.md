@@ -170,3 +170,62 @@ A factor 1000 in bandwidth, so in theory the same range will be achieved on the 
 that is why those systems have a much lower power in the audio, often see -20dBc to -30dBc, dBc means dB under the main Carrier -30dBc is the same as 1/1000
 
 [Thomas Scherrer - OZ2CPU - 2011](https://www.webx.dk/rc/uhf-link3/explain-names.htm)
+
+AFHDS Automatic Frequency Hopping Digital System - protocol used by flight control RC transmitter and receiver
+AGL Above Ground Level
+AHRS Attitude and Heading Reference System - used for navigation
+AOI Asynchronous Input/Output
+BEC Battery Eliminating Circuit (ESC power delivery)
+CAN bus Controller Area Network bus standard for micro-controllers and devices to communicate with each other in applications without a host computer
+CC Companion Computer (typically a real-time flight "companion" computer connected to a Raspberry Pi)
+CCD Charge-Coupled Device - the digital camera image sensor
+COA Certificate Of Authorization waiver - a request for a waiver can be granted to allow for flight operation in violation of a TFR. eg for news agencies
+DSM Digital System Multiplexer - Spektrum digital receiver protocol used to the flight controller. Also DSM2 and DSMX (newer and improved)
+ESC Electronic Speed Controller (controls the rotational speed of the electric motors)
+FAA Federal Aviation Administration
+FLIR Forward Looking InfraRed
+FOSS Free Open Source Software
+FPV First Person View
+GCS Ground Control Station
+GFSK Gaussian Frequency Shift Keying
+GNSS Global Navigation Satellite System (using GPS, GLONASS, Galileo or BeiDou systems)
+HAL Hardware Abstraction Layer
+HAT Hardware Attached on Top (companion processor), also Height Above Terrain
+HDMI High-Definition Multimedia Interface (video interface)
+IMU Inertial Measurement Unit - orientation and acceleration
+INS Inertial Navigation System (used where GPS is blocked/shadowed or has multi-path errors)
+LOC Loss Of Communications - failure to transmit/receive to control the vehicle
+LVC Low Voltage Cutoff (set by the ESC to avoid battery discharge below 3 v)
+LWIR Long Wave Infra Red
+MIPI Mobile Industry Processor Interface (VGA camera interface)
+MRU Motion Reference Unit
+MSL Mean Sea Level
+NOTAMS Notices to Airmen - alerts of potential hazards along a flight path. They are issued in an abbreviated format and need to be decoded. See FAA NOTAM website
+OSD On Screen Display
+OTG On The Go USB port for a device to act as a host
+PCM Pulse Code Modulation - digital protocol for RC receiver to communicate with the flight controller. Less popular than PPM
+PDB Power Distribution Board - motor power connection to battery link
+POSIX Portable Operating System Interface: Unix based family of standards specified by IEEE for operating system compatibility
+PPM Pulse Position Modulation - protocol for RC receiver to communicate with the flight controller. Single wire
+PWM Pulse Width Modulation - protocol for RC receiver to communicate with the flight controller. One wire for each signal line. Eight channel receiver requires eight wires
+RC Radio Control - the flight control transmitter/receiver
+RF Radio Frequency
+RMS Root Mean Square - arithmetic mean of the squares of a set of numbers. RMS voltage is a measure of typical generalized voltage
+ROS Robot Operating System - middle-ware layer and support apps which run on Linux or a POSIX compliant OS
+RPM Rotations Per Minute
+RTF Ready To Fly
+RTL Return To Launch - an automated failsafe mode to return the drone to the launch point. GPS assisted
+RTOS Real-Time Operating System (code runs on processor without sharing with multiple users and applications which reduce the latency and predictability of the software's response time)
+RX Receiver
+SBUS Serial Bus: signal protocol where instead of running separate signals on separate wires, all signals are sent on a single wire using a protocl to multiplex the independent signals
+SUAS Small Unmanned Aerial Systems
+TFR Temporary Flight Restrictions - a type of NOTAM that temporarily restricts certain aircraft from operating within a defined area. Defines area, effective period, altitudes affected, FAA coordinating facility and contact number, reason for TFR, etc. Example events: sporting events, US presidential visit. See FAA TFR list. Can counter with a COA.
+TITA Time In The Air
+TX transmitter
+UAS Unmanned Aerial Systems
+UAV Unmanned Aerial Vehicle
+UTM UAV Traffic Management (a NASA program to manage flight paths) [UTM Interest Website]
+UBEC Universal Battery Eliminator Circuit
+VGA Video Graphics Array
+
+http://www.yolinux.com/TUTORIALS/Drones.html#DRONE_ACRONYMS

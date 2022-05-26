@@ -62,6 +62,10 @@ Paid options:
 - https://www.planeprint.com/
 - https://www.rc3dprint.com/planes
 
+Types:
+
+- https://docs.px4.io/master/en/airframes/airframe_reference.html#plane
+
 ### Flight controller
 
 - Pixhawk
@@ -98,6 +102,7 @@ Paid options:
 - https://www.fpv24.com/en/fpv-nurfluegler
 - https://inavfixedwinggroup.com/category/recommended-setups/long-range-setups/
 - https://www.fpvknowitall.com/ultimate-fpv-shopping-list/
+- https://ardupilot.org/plane/docs/miniTalon-build.html
 
 ## Antenna Tracker
 
@@ -127,3 +132,15 @@ TBS - team blacksheep
 LRS - long range systems
 
 https://github.com/openLRSng
+
+## WiFi-broadcasting and AV1
+
+- https://dev.px4.io/v1.11_noredirect/en/qgc/video_streaming_wifi_broadcast.html
+- https://github.com/svpcom/wifibroadcast
+- https://www.diva-portal.org/smash/get/diva2:1262270/FULLTEXT01.pdf
+- https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/compression-efficiency-analysis-of-av1-vvc-and-hevc-for-random-access-applications/D2345DDC3750055AB0AA3D24FCF743BE
+- https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/
+
+## Courses
+
+- https://techexplorations.com/so/drone/
