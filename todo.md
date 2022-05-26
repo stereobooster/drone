@@ -1,0 +1,4 @@
+- Reorganize glossary
+- Add icons https://thenounproject.com/search/icons/?iconspage=1&q=controller
+- Write plan
+  - Start with controller and emulator

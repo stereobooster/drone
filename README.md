@@ -2,6 +2,8 @@
 
 ## Frame types
 
+https://docs.px4.io/master/en/airframes/airframe_reference.html#plane
+
 ```dot
 digraph graphname {
   splines="curved";
@@ -61,10 +63,6 @@ Paid options:
 - https://www.eclipson-airplanes.com/
 - https://www.planeprint.com/
 - https://www.rc3dprint.com/planes
-
-Types:
-
-- https://docs.px4.io/master/en/airframes/airframe_reference.html#plane
 
 ### Flight controller
 
