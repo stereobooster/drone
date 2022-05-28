@@ -3,6 +3,7 @@
 ## Frame types
 
 https://docs.px4.io/master/en/airframes/airframe_reference.html#plane
+https://ardupilot.org/copter/docs/frame-type-configuration.html
 
 ```dot
 digraph graphname {
@@ -44,7 +45,7 @@ digraph graphname {
 - Propellers
 - Servos
 - Reciever (RX)
-- Joysticks
+- Joystick/Controller
 - Video Transmiter (VTX)
 - FPV Anthena
 - FPV Camera
@@ -85,15 +86,15 @@ Paid options:
 
 - CNC Kitchen [HOW TO 3D PRINT your own RC AIRPLANE](https://www.youtube.com/watch?v=Ztygn--BsjI&list=PLEOQTmIWJ_rnHDVqxPP-GQNJ1UcQ-eF2q&index=7)
 - [René Rosentraeger](https://www.youtube.com/channel/UCj6O_mJ5G0JiGLTJUemIO_A), builds harrier
-- https://www.youtube.com/c/TroyMcMillan/playlists
-- https://www.youtube.com/c/JoelMelanieVlashof/playlists
-- https://www.youtube.com/c/Painless360/playlists
+- [Troy McMillan](https://www.youtube.com/c/TroyMcMillan/playlists)
+- [Joel & Melanie Vlashof](https://www.youtube.com/c/JoelMelanieVlashof/playlists)
+- [Painless360](https://www.youtube.com/c/Painless360/playlists)
 
 ## Solar RC
 
-- https://www.youtube.com/watch?v=nk2-mRIhF0Q
-- https://discuss.ardupilot.org/t/solar-rc-plane-300km-7h/60981
-- https://www.ijmer.com/papers/Vol3_Issue2/AZ32752758.pdf
+- [Solar plane RC. 600Km of autonomy without batteries](https://www.youtube.com/watch?v=nk2-mRIhF0Q)
+- [Solar RC Plane 300km 7h](https://discuss.ardupilot.org/t/solar-rc-plane-300km-7h/60981)
+- [Design and Fabrication of Solar R/C Model Aircraft](https://www.ijmer.com/papers/Vol3_Issue2/AZ32752758.pdf)
 
 ## Examples of flying wing setups
 
@@ -105,6 +106,7 @@ Paid options:
 ## Antenna Tracker
 
 - [DIY Simple RSSI Antenna Tracker using Arduino for less than $50!](https://www.youtube.com/watch?v=GGtqUXKE-ro)
+- [DIY Helical FPV Antenna](https://www.youtube.com/watch?v=fS7MKYkKN-A)
 
 ## Controller
 
@@ -122,7 +124,7 @@ Example:
 > - ExpressLRS / ELRS (2.4GHz and 868MHz/915MHz)
 > - TBS Tracer (2.4GHz)
 > - Immersion Ghost (2.4GHz)
-> - Frsky (2.4GHz)
+> - FrSky (2.4GHz)
 >
 > -- https://oscarliang.com/radio-transmitter/
 
