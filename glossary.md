@@ -1,3 +1,12 @@
+https://github.com/about-code/glossarify-md
+https://marketplace.visualstudio.com/search?term=markdown&target=VSCode&category=All%20categories&sortBy=Relevance
+
+**Stall speed** refers to the minimum speed at which an airplane must fly to produce lift.
+
+https://monroeaerospace.com/blog/what-is-a-stall-speed-and-how-does-it-affect-airplanes/
+https://ocw.mit.edu/courses/16-61-aerospace-dynamics-spring-2003/pages/lecture-notes/
+https://ocw.mit.edu/courses/16-61-aerospace-dynamics-spring-2003/resources/lecture16/
+
 Abbreviations and names often used on my pages and when talking about radio control and video links and FPV
 
 RC - Radio Control, remote wireless control of something

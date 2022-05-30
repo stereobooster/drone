@@ -1,5 +1,43 @@
 # drone
 
+## Roadmap
+
+```dot
+digraph graphname {
+  freestyle[label="Freestyle Flying and Racing"];
+  autonomous[label="Autonomous Flying and Long Range"]
+
+  purpose -> freestyle;
+  purpose -> autonomous;
+
+  freestyle -> copter;
+  autonomous -> "fixed wing, glider";
+  autonomous -> VTOL;
+
+  subgraph cluster_frames {
+    label="Frame"
+
+    "fixed wing, glider";
+    copter;
+    "VTOL";
+  }
+
+  autonomous -> inav;
+  autonomous -> ardupilot;
+
+  freestyle -> betaflight;
+  subgraph cluster_fcfirmaware {
+    label="FC firmware"
+
+    inav[label="iNav"];
+    ardupilot;
+
+    betaflight;
+  }
+
+}
+```
+
 ## Frame types
 
 https://docs.px4.io/master/en/airframes/airframe_reference.html#plane
@@ -16,6 +54,17 @@ digraph graphname {
 
 **VTOL** - Vertical Take-Off and Landing
 **FPV** https://ardupilot.org/plane/docs/fpv-plane.html
+
+Params/features:
+
+- low speed (stall speed)
+- high speed
+- resistance in case of crash
+- acrobatics
+- (compartment) is it enough space for flight controller etc?
+- can it be dissabled for transportation?
+
+https://www.youtube.com/watch?v=voHJ-VDGi4I
 
 ## Features
 
@@ -76,11 +125,27 @@ Paid options:
 
 ### Flight controller firmware
 
-- Betaflight - for racing
-- Ardupilot - for missions and long range
-- iNav - for missions and long range
-- ? https://reefwing.medium.com/a-review-of-open-source-flight-control-systems-2fe37239c9b6
-- ? https://blog.dronetrest.com/flight-controller-firmware/
+- Freestyle Flying and Racing
+  - [Betaflight](https://github.com/betaflight/betaflight)
+  - [Emuflight](https://github.com/emuflight/EmuFlight)
+  - [KISS](http://kiss.flyduino.net/downloads/)
+  - [FlightOne FalcoX](https://shop.flightone.com/product/falcox-fc-license/)
+- Autonomous Flying
+  - [iNav](https://github.com/iNavFlight/inav)
+  - [Ardupilot](https://github.com/ArduPilot/ardupilot)
+- Honorable Mentions
+  - [Multiwii](http://www.multiwii.com/)
+  - [Baseflight](https://github.com/multiwii/baseflight)
+  - [Cleanflight](http://cleanflight.com/)
+  - [Butterflight](https://github.com/ButterFlight/butterflight)
+  - [OpenPilot](https://github.com/commaai/openpilot)
+  - [LibrePilot](https://github.com/librepilot/LibrePilot)
+  - [TauLabs](https://github.com/TauLabs/TauLabs)
+  - [dRonin](https://dronin.org/)
+
+[source](https://oscarliang.com/mini-quad-fc-firmware/)
+
+[Firmwares for Flight Controllers, Matek](http://www.mateksys.com/?p=5159)
 
 ## Blogs
 
