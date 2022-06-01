@@ -147,31 +147,12 @@ Paid options:
 
 [Firmwares for Flight Controllers, Matek](http://www.mateksys.com/?p=5159)
 
-## Blogs
-
-- CNC Kitchen [HOW TO 3D PRINT your own RC AIRPLANE](https://www.youtube.com/watch?v=Ztygn--BsjI&list=PLEOQTmIWJ_rnHDVqxPP-GQNJ1UcQ-eF2q&index=7)
-- [René Rosentraeger](https://www.youtube.com/channel/UCj6O_mJ5G0JiGLTJUemIO_A), builds harrier
-- [Troy McMillan](https://www.youtube.com/c/TroyMcMillan/playlists)
-- [Joel & Melanie Vlashof](https://www.youtube.com/c/JoelMelanieVlashof/playlists)
-- [Painless360](https://www.youtube.com/c/Painless360/playlists)
-
-## Solar RC
-
-- [Solar plane RC. 600Km of autonomy without batteries](https://www.youtube.com/watch?v=nk2-mRIhF0Q)
-- [Solar RC Plane 300km 7h](https://discuss.ardupilot.org/t/solar-rc-plane-300km-7h/60981)
-- [Design and Fabrication of Solar R/C Model Aircraft](https://www.ijmer.com/papers/Vol3_Issue2/AZ32752758.pdf)
-
 ## Examples of flying wing setups
 
 - https://www.fpv24.com/en/fpv-nurfluegler
 - https://inavfixedwinggroup.com/category/recommended-setups/long-range-setups/
 - https://www.fpvknowitall.com/ultimate-fpv-shopping-list/
 - https://ardupilot.org/plane/docs/miniTalon-build.html
-
-## Antenna Tracker
-
-- [DIY Simple RSSI Antenna Tracker using Arduino for less than $50!](https://www.youtube.com/watch?v=GGtqUXKE-ro)
-- [DIY Helical FPV Antenna](https://www.youtube.com/watch?v=fS7MKYkKN-A)
 
 ## Controller
 
@@ -197,15 +178,3 @@ TBS - team blacksheep
 LRS - long range systems
 
 https://github.com/openLRSng
-
-## WiFi-broadcasting and AV1
-
-- https://dev.px4.io/v1.11_noredirect/en/qgc/video_streaming_wifi_broadcast.html
-- https://github.com/svpcom/wifibroadcast
-- https://www.diva-portal.org/smash/get/diva2:1262270/FULLTEXT01.pdf
-- https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/compression-efficiency-analysis-of-av1-vvc-and-hevc-for-random-access-applications/D2345DDC3750055AB0AA3D24FCF743BE
-- https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/
-
-## Courses
-
-- https://techexplorations.com/so/drone/
