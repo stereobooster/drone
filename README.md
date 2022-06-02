@@ -90,8 +90,8 @@ https://www.youtube.com/watch?v=voHJ-VDGi4I
 - Electronic Speed Controllers (ESC)
 - Battery
 - Power Distribution Boards (PDB)
-- Motor
-- Propellers
+- Motor(s)
+- Propeller(s)
 - Servos
 - Reciever (RX)
 - Joystick/Controller

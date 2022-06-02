@@ -19,6 +19,10 @@
 - https://hackaday.com/2020/08/04/a-hybrid-helical-antenna-for-the-eshail-2-geosynchronous-repeater/
 - https://www.thingiverse.com/thing:2497461
 - https://repository.kaust.edu.sa/bitstream/handle/10754/622046/07790097.pdf;jsessionid=66C4D2AC73FA04D4B31C5999F9A13CB2?sequence=1
+- https://libre.space/
+- https://www.la1k.no/2018/02/28/a-3d-printed-1100-1700-mhz-helix-antenna/
+- https://tysonpower.de/blog/first-qo100-qso-with-a-indoor-60cm-dish
+- https://www.rtl-sdr.com/
 
 ## WiFi-broadcasting and AV1
 

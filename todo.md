@@ -2,3 +2,27 @@
 - Add icons https://thenounproject.com/search/icons/?iconspage=1&q=controller
 - Write plan
   - Start with controller and emulator
+  - https://www.youtube.com/watch?v=I7lUTEJM62g
+  - https://www.youtube.com/watch?v=BvFzHivbTTQ
+  - Picasim: free and accurate simulation. http://www.rowlhouse.co.uk/PicaSim/
+  - Realflight 9.5 - Realistic, huge collection of RC aircraft including drones, helicopters and more.
+  - Aerofly RC - Also realistic, drones, helicopters and more.
+  - Wings - Designed for RC FPV wing racing.
+  - Best free simulator: Orqa FPV.Skydive
+  - Best sim for racing: Velocidrone
+  - Best sim for freestyle: Uncrashed
+  - Best sim for Whoop Racing: Velocidrone w/ Micro Pack
+  - Best free Whoop Racing sim: Tiny Whoop Go
+  - The only sim with my house in it as a level: Liftoff
+  - Best sim for low-spec computers: FPV Freerider
+  - Largest open-world map: GTA5 drone mod
+  - Lets you emulate your actual drone physics: AI Drone Sim
+  - Best value for money: DRL Simulator
+  - If you play sims, you MUST be using EdgeTX!!!
+- https://www.hd-zero.com/technology
+- https://github.com/ExpressLRS/ExpressLRS
+- https://www.open-tx.org/radios.html
+- https://www.fpvknowitall.com/fpv-shopping-list-controller-and-receiver/
+- https://www.youtube.com/c/JoshuaBardwell
+- https://www.youtube.com/watch?v=a8cy5BK5SbU
+-
