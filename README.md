@@ -17,22 +17,21 @@ digraph graphname {
   subgraph cluster_frames {
     label="Frame"
 
-    "fixed wing, glider";
     copter;
+    "fixed wing, glider";
     "VTOL";
   }
 
+  freestyle -> betaflight;
   autonomous -> inav;
   autonomous -> ardupilot;
 
-  freestyle -> betaflight;
   subgraph cluster_fcfirmaware {
     label="FC firmware"
 
+    betaflight;
     inav[label="iNav"];
     ardupilot;
-
-    betaflight;
   }
 
 }
