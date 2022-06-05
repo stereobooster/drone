@@ -5,6 +5,7 @@
 - [Troy McMillan](https://www.youtube.com/c/TroyMcMillan/playlists)
 - [Joel & Melanie Vlashof](https://www.youtube.com/c/JoelMelanieVlashof/playlists)
 - [Painless360](https://www.youtube.com/c/Painless360/playlists)
+- [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)
 
 ## Courses
 
