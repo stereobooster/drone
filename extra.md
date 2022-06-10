@@ -24,6 +24,8 @@
 - https://www.la1k.no/2018/02/28/a-3d-printed-1100-1700-mhz-helix-antenna/
 - https://tysonpower.de/blog/first-qo100-qso-with-a-indoor-60cm-dish
 - https://www.rtl-sdr.com/
+- https://ardupilot.org/antennatracker/index.html
+- https://ardupilot.org/plane/docs/common-sik-telemetry-radio.html#common-sik-telemetry-radio
 
 ## WiFi-broadcasting and AV1
 

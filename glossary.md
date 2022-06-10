@@ -1,11 +1,31 @@
 https://github.com/about-code/glossarify-md
 https://marketplace.visualstudio.com/search?term=markdown&target=VSCode&category=All%20categories&sortBy=Relevance
+https://github.com/shd101wyy/markdown-preview-enhanced/issues/1712
+
+0.003 MHz- 0.03 MHz Very Low Frequency (VLF)
+.03 MHz – 0.3 MHz Low Frequency (LF)
+0.3 MHz – 3 MHz Medium Frequency (MF)
+3 MHz – 30 MHz High Frequency (HF)
+30 MHz – 300 MHz Very High Frequency (VHF)
+300 MHz – 3,000 MHz Ultra-High Frequency (UHF)
+3,000 MHz – 30,000 MHz Super High Frequency (SHF)
+30,000 MHz – 300,000 MHz Extra High Frequency (EHF)
+
+**Amateur radio**, also known as ham radio, is the use of radio frequency spectrum for purposes of non-commercial exchange of messages, wireless experimentation, self-training, private recreation, radiosport, contesting, and emergency communications.
+
+The term "ham" was first a pejorative term used in professional wired telegraphy during the 19th century, to mock operators with poor Morse code-sending skills ("ham-fisted")
+
+FM radio works the same way that AM radio works. The difference is in how the carrier wave is modulated, or altered. With AM radio, the amplitude, or overall strength, of the signal is varied to incorporate the sound information. With FM, the frequency (the number of times each second that the current changes direction) of the carrier signal is varied.
+
+FM signals have a great advantage over AM signals. Both signals are susceptible to slight changes in amplitude. With an AM broadcast, these changes result in static. With an FM broadcast, slight changes in amplitude don't matter -- since the audio signal is conveyed through changes in frequency, the FM receiver can just ignore changes in amplitude. The result: no static at all.
 
 **Stall speed** refers to the minimum speed at which an airplane must fly to produce lift.
 
 https://monroeaerospace.com/blog/what-is-a-stall-speed-and-how-does-it-affect-airplanes/
 https://ocw.mit.edu/courses/16-61-aerospace-dynamics-spring-2003/pages/lecture-notes/
 https://ocw.mit.edu/courses/16-61-aerospace-dynamics-spring-2003/resources/lecture16/
+
+Lidar, which stands for Light Detection and Ranging, is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth
 
 Abbreviations and names often used on my pages and when talking about radio control and video links and FPV
 
