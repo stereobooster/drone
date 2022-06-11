@@ -13,6 +13,10 @@
 
 ## Antenna Tracker
 
+- https://www.rcgroups.com/forums/showthread.php?3815901-New-product-low-cost-antenna-tracker-for-iNav-Betaflight-Ardupilot-KISS-etc
+- https://ardupilot.org/antennatracker/index.html
+- https://ardupilot.org/plane/docs/common-sik-telemetry-radio.html#common-sik-telemetry-radio
+- [A Portable UAV Tracking System for Communications and Video Transmission](https://www.researchgate.net/publication/339662008_A_Portable_UAV_Tracking_System_for_Communications_and_Video_Transmission)
 - [DIY Simple RSSI Antenna Tracker using Arduino for less than $50!](https://www.youtube.com/watch?v=GGtqUXKE-ro)
 - [DIY Helical FPV Antenna](https://www.youtube.com/watch?v=fS7MKYkKN-A)
 - https://www.semanticscholar.org/paper/Design%2C-fabrication%2C-and-testing-of-a-helical-using-Ghassemiparvin-Ghalichechian/a4d653817326f3ff1685ee8825c703731cced948
@@ -24,11 +28,12 @@
 - https://www.la1k.no/2018/02/28/a-3d-printed-1100-1700-mhz-helix-antenna/
 - https://tysonpower.de/blog/first-qo100-qso-with-a-indoor-60cm-dish
 - https://www.rtl-sdr.com/
-- https://ardupilot.org/antennatracker/index.html
-- https://ardupilot.org/plane/docs/common-sik-telemetry-radio.html#common-sik-telemetry-radio
 
 ## WiFi-broadcasting and AV1
 
+- https://github.com/rodizio1/EZ-WifiBroadcast
+- https://dronebridge.gitbook.io/docs/
+  - https://wolfgangchristl.de/not-just-another-drone-project/
 - https://dev.px4.io/v1.11_noredirect/en/qgc/video_streaming_wifi_broadcast.html
 - https://github.com/svpcom/wifibroadcast
 - https://www.diva-portal.org/smash/get/diva2:1262270/FULLTEXT01.pdf

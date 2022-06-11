@@ -119,8 +119,7 @@ Paid options:
 - Matek https://inavfixedwinggroup.com/shopping-list/flight-controllers/
 - https://www.researchgate.net/publication/325134452_A_Survey_of_Open-Source_UAV_Flight_Controllers_and_Flight_Simulators
   - https://www.connectedpapers.com/
-- ? https://github.com/satshakit/satshakit-flight-controller
-- ? https://cribstone.github.io/humblehacker/2015/08/28/A-DIY-Flight-Controller.html
+- [A survey of Open-Source UAV flight controllers and flight simulators](https://www.academia.edu/74379497/A_survey_of_Open_Source_UAV_flight_controllers_and_flight_simulators)
 
 ### Flight controller firmware
 
@@ -177,3 +176,9 @@ Old:
 
 - https://github.com/openLRSng
 - https://github.com/DTFUHF
+
+## GCS
+
+- iNav https://www.rcgroups.com/forums/showatt.php?attachmentid=11240545&d=1538097119
+  - Mission Planner for INAV (Android), MobileFlight (IOS) and mwp (Linux)
+- https://ardupilot.org/plane/docs/common-choosing-a-ground-station.html
