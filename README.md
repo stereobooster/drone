@@ -182,3 +182,22 @@ Old:
 - iNav https://www.rcgroups.com/forums/showatt.php?attachmentid=11240545&d=1538097119
   - Mission Planner for INAV (Android), MobileFlight (IOS) and mwp (Linux)
 - https://ardupilot.org/plane/docs/common-choosing-a-ground-station.html
+- [Mission planer](https://github.com/ArduPilot/MissionPlanner)
+- [MobileFlight](https://flyinghead.github.io/mobile-flight/)
+- [mwp](https://github.com/stronnag/mwptools)
+- [APM Planner 2.0](https://github.com/ArduPilot/apm_planner)
+- [MAVProxy](https://github.com/ArduPilot/MAVProxy)
+- [QGroundControl](http://qgroundcontrol.com/)
+- [UgCS - Universal Ground Control Station](https://github.com/ugcs)
+- [Tower (a.k.a. “DroidPlanner 3”) ](https://github.com/DroidPlanner/Tower)
+- MAV Pilot 1.4
+- SidePilot
+- [AndroPilot](https://github.com/geeksville/arduleader/tree/master/andropilot) not supported
+
+Components:
+
+- Flight controller firmware
+- Autopilot
+- Mission planer
+- Flight tracker
+- Simulator

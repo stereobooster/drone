@@ -34,3 +34,4 @@ https://en.wikipedia.org/wiki/Dipole_antenna
 https://en.wikipedia.org/wiki/Discone_antenna
 https://en.wikipedia.org/wiki/Loop_antenna
 https://en.wikipedia.org/wiki/Halo_antenna
+https://en.wikipedia.org/wiki/Patch_antenna
