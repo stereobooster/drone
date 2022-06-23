@@ -54,3 +54,93 @@ PDB -> ESC;
 | Camera                       |                    | required, DVR, etc               |                          |
 | Antenna tracker, gain antena |                    | optional                         |                          |
 | GPS                          |                    | required for a. tracker          | required                 |
+
+|       | ←maneuverability |                                    | long range→            |
+| ----- | ---------------- | ---------------------------------- | ---------------------- |
+| body  | multicopter      | VTOL                               | Fixed wing             |
+| radio | WiFi, 2.4, 5.6   | Crossfire 900, ExpressLRS 900, 433 | SiK Telemetry 900, 433 |
+
+Roadmap
+
+```dot
+digraph roadmap{
+    rankdir="LR";
+
+    FS[label="Flight Simulator"]
+    VirtualController -> FS
+
+    FS1[label="Flight Simulator"]
+    Controller -> FS1
+
+    Body1[label="Body with motor, servos, ECS, PDB etc"]
+    RX1[label="RX the same as controller"]
+    FC1[label="Flight controller"]
+    S1[label="Sensors (can be built in)"]
+    B1[label="Battery"]
+    FS1 -> Body1
+    FS1 -> RX1
+    FS1 -> FC1
+    FS1 -> S1
+    FS1 -> B1
+
+    Body1 -> LoS
+    RX1 -> LoS
+    FC1 -> LoS
+    S1 -> LoS
+    B1 -> LoS
+
+    Camera[label="Camera and maybe DVR"]
+    VTX[label="VTX and OSD"]
+    Screen[label="Screen or goggles"]
+    LoS -> Camera
+    LoS -> VTX
+    LoS -> Screen
+
+    Camera -> FPV
+    VTX -> FPV
+    Screen -> FPV
+
+    RX2[label="Better RX"]
+    AT2[label="Antena tracker"]
+    GPS2[label="GPS"]
+    VTX2[label="Better VTX"]
+    FPV -> RX2
+    FPV -> GPS2
+    GPS2 -> AT2
+    FPV -> VTX2
+
+    LRFPV[label="Long range FPV"]
+    RX2-> LRFPV
+    AT2-> LRFPV
+    VTX2-> LRFPV
+
+    GPS3[label="GPS"]
+    Body3[label="Body with motor, servos, ECS, PDB etc"]
+    RX3[label="SiK telemetry or similar"]
+    FC3[label="Flight controller"]
+    S3[label="Sensors (can be built in)"]
+    B3[label="Battery"]
+    MP[label="Mission Planer"]
+
+    MP -> RX3
+    MP -> Body3
+    MP -> FC3
+    MP -> S3
+    MP -> GPS3
+    MP -> B3
+
+    RX3 -> GCS
+    Body3 -> GCS
+    FC3 -> GCS
+    S3 -> GCS
+    GPS3 -> GCS
+    B3 -> GCS
+
+    FS4[label="Flight Simulator"]
+    MP1[label="Mission Planer"]
+    MP1 -> FS4
+}
+```
+
+- Determine path to upgrade. So I can start minimal, but upgrade later if I want to
+- Determine how all parts would interact in the end
