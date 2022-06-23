@@ -144,3 +144,6 @@ digraph roadmap{
 
 - Determine path to upgrade. So I can start minimal, but upgrade later if I want to
 - Determine how all parts would interact in the end
+
+Simplest LoS https://www.youtube.com/watch?v=4ghxT9Di0Ag
+Simplest FPV https://www.youtube.com/watch?v=2FUDB2lHfMc
