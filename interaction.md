@@ -41,3 +41,16 @@ PDB -> ESC;
 
 }
 ```
+
+|                              | LoS                | FPV                              | GCS                      |
+| ---------------------------- | ------------------ | -------------------------------- | ------------------------ |
+| Flight controller            | required (simpler) | required                         | required (more advanced) |
+| Telemetry                    | required           | required, OSD                    | required, GPS            |
+| Body                         | required           | required                         | required                 |
+| TX                           | any                | ExpressLRS, Crossfire, etc       | SiK telemetry, RFD 900   |
+| Control hardware             | Controller         | Controller + Screen or Goggles   | Laptop, phone, tablet    |
+| Control software             | OpenTX, EdgeTX     | OpenTX, EdgeTX                   | Mission Planner etc.     |
+| VTX                          |                    | required, WiFi broadcasting, etc |                          |
+| Camera                       |                    | required, DVR, etc               |                          |
+| Antenna tracker, gain antena |                    | optional                         |                          |
+| GPS                          |                    | required for a. tracker          | required                 |

@@ -189,7 +189,7 @@ Old:
 - [MAVProxy](https://github.com/ArduPilot/MAVProxy)
 - [QGroundControl](http://qgroundcontrol.com/)
 - [UgCS - Universal Ground Control Station](https://github.com/ugcs)
-- [Tower (a.k.a. “DroidPlanner 3”) ](https://github.com/DroidPlanner/Tower)
+- [Tower (a.k.a. "DroidPlanner 3") ](https://github.com/DroidPlanner/Tower)
 - MAV Pilot 1.4
 - SidePilot
 - [AndroPilot](https://github.com/geeksville/arduleader/tree/master/andropilot) not supported

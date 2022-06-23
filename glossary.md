@@ -2,6 +2,12 @@ https://github.com/about-code/glossarify-md
 https://marketplace.visualstudio.com/search?term=markdown&target=VSCode&category=All%20categories&sortBy=Relevance
 https://github.com/shd101wyy/markdown-preview-enhanced/issues/1712
 
+FPV - First Person View
+LOS - Line Of Sight
+GCS - Ground Control Station (Mission planer, automated mission, waypoint)
+
+https://ardupilot.org/planner/docs/common-glossary.html
+
 0.003 MHz- 0.03 MHz Very Low Frequency (VLF)
 .03 MHz – 0.3 MHz Low Frequency (LF)
 0.3 MHz – 3 MHz Medium Frequency (MF)
