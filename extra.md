@@ -50,3 +50,8 @@
 
 - LW-PLA, giroid, sanding, epoxy reinforcement
 - LW-PLA, no retraction, carbon-rods reinforcement
+
+## GPS
+
+- https://en.wikipedia.org/wiki/Real-time_kinematic_positioning
+- https://en.wikipedia.org/wiki/Differential_GPS
