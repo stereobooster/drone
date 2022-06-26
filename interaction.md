@@ -147,3 +147,15 @@ digraph roadmap{
 
 Simplest LoS https://www.youtube.com/watch?v=4ghxT9Di0Ag
 Simplest FPV https://www.youtube.com/watch?v=2FUDB2lHfMc
+
+|                    | RX  | Stabilizer | Stabilizer with GPS | Flight controller |
+| ------------------ | --- | ---------- | ------------------- | ----------------- |
+| Manual             | +   | +          | +                   | +                 |
+| Stabilization      |     | +          | +                   | +                 |
+| Return to home     |     |            | +                   | +                 |
+| Mission (Waypoint) |     |            |                     | +                 |
+| Telemetry          | ?   | ?          | ?                   | +                 |
+| OSD                | ?   | ?          | ?                   | ?                 |
+| DVR                |     |            |                     | ?                 |
+| Needs controller   | +   | +          | +                   |                   |
+| OS firmware        | +   |            |                     | +                 |

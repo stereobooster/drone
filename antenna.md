@@ -38,8 +38,7 @@ https://en.wikipedia.org/wiki/Patch_antenna
 
 ---
 
-https://oscarliang.com/expresslrs/
-
-ExpressLRS 99LQ at 30kms out!! https://www.youtube.com/watch?v=SbWvFIpVkto
-
-Ghost Range Test - It went so far I lost the wing! https://www.youtube.com/watch?v=spYKBfVqYTQ
+- https://oscarliang.com/expresslrs/
+- ExpressLRS 99LQ at 30kms out!! https://www.youtube.com/watch?v=SbWvFIpVkto
+- Ghost Range Test - It went so far I lost the wing! https://www.youtube.com/watch?v=spYKBfVqYTQ
+- SIYI HM30 Full HD FPV System - initial range testing! https://www.youtube.com/watch?v=r5LNfFYE7uA&list=PLdtQtLk5VzUjDuXqiGI6yGLqAdjYrJ5he

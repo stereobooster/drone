@@ -6,6 +6,8 @@
 - [Joel & Melanie Vlashof](https://www.youtube.com/c/JoelMelanieVlashof/playlists)
 - [Painless360](https://www.youtube.com/c/Painless360/playlists)
 - [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)
+- [ArxangelRC](https://www.youtube.com/c/ArxangelRC/playlists)
+  - https://www.youtube.com/c/ArxangelRC/videos
 
 ## Courses
 
