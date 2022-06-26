@@ -3,6 +3,8 @@ ODA - Omnidirectional antenna
 metrics - GPS, RSSI, voltage etc. https://oscarliang.com/best-osd-quadcopter-fpv-data-on-screen-display-video
 GCS - [Ground Control Stations](https://ardupilot.org/plane/docs/common-choosing-a-ground-station.html)
 
+https://drones.stackexchange.com/questions/1855/is-it-possible-to-use-the-head-tracking-in-a-fpv-goggle-with-a-computer
+
 ```dot
 digraph g{
 

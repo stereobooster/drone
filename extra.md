@@ -8,14 +8,22 @@
 - [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)
 - [ArxangelRC](https://www.youtube.com/c/ArxangelRC/playlists)
   - https://www.youtube.com/c/ArxangelRC/videos
+- https://www.flitetest.com/getting-started
+- [MarioFPV](https://www.youtube.com/channel/UCX2UiZjg485tDoq_Yl4Pysw/videos)
+- https://aviation.stackexchange.com/
 
 ## Courses
 
 - https://techexplorations.com/so/drone/
 
-## Antenna Tracker
+## Antenna Tracker (AAT)
 
-- https://www.rcgroups.com/forums/showthread.php?3815901-New-product-low-cost-antenna-tracker-for-iNav-Betaflight-Ardupilot-KISS-etc
+- 15$ [DIY Antenna Tracker by zs6buj OpenHD Skywalker 1720 INAV 2.6](https://www.youtube.com/watch?v=lrymGzePcmE)
+  - https://www.rcgroups.com/forums/showthread.php?2942118-Build-a-Reliable-and-Cheap-Antenna-Tracker-this-Weekend-%C2%96-by-zs6buj
+- [The Sentinel Antenna Tracker does not need telemetry (kind of)](https://www.youtube.com/watch?v=GbPk39z_-e8)
+  - [New product - low cost antenna tracker for iNav / Betaflight / Ardupilot /KISS /etc](https://www.rcgroups.com/forums/showthread.php?3815901-New-product-low-cost-antenna-tracker-for-iNav-Betaflight-Ardupilot-KISS-etc)
+- 2021 https://github.com/brinuk/Antenna-Tracker-for-FRsky-Telemetry
+- 2020 https://github.com/kolins-cz/antenna-tracker-mechanics
 - https://ardupilot.org/antennatracker/index.html
 - https://ardupilot.org/plane/docs/common-sik-telemetry-radio.html#common-sik-telemetry-radio
 - [A Portable UAV Tracking System for Communications and Video Transmission](https://www.researchgate.net/publication/339662008_A_Portable_UAV_Tracking_System_for_Communications_and_Video_Transmission)
@@ -33,14 +41,22 @@
 
 ## WiFi-broadcasting and AV1
 
-- https://github.com/rodizio1/EZ-WifiBroadcast
+- https://rubyfpv.com/
+- https://openhd.gitbook.io/open-hd/general/getting-started
+- https://docs.px4.io/v1.12/en/tutorials/video_streaming_wifi_broadcast.html
+  - https://github.com/svpcom/wifibroadcast
+  - https://gstreamer.freedesktop.org/documentation/index.html?gi-language=c
+    - https://gstreamer.freedesktop.org/documentation/aom/av1enc.html?gi-language=c
+  - https://dev.px4.io/v1.11_noredirect/en/qgc/video_streaming_wifi_broadcast.html
 - https://dronebridge.gitbook.io/docs/
   - https://wolfgangchristl.de/not-just-another-drone-project/
-- https://dev.px4.io/v1.11_noredirect/en/qgc/video_streaming_wifi_broadcast.html
-- https://github.com/svpcom/wifibroadcast
 - https://www.diva-portal.org/smash/get/diva2:1262270/FULLTEXT01.pdf
 - https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/compression-efficiency-analysis-of-av1-vvc-and-hevc-for-random-access-applications/D2345DDC3750055AB0AA3D24FCF743BE
-- https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/
+- [EZ-wifibroadcast 60KM FPV (MAPLE WIRELESS)](https://www.youtube.com/watch?v=bcYOgW3WmS4)
+  - http://www.maple-wireless.com/bk_25370473.html
+  - https://github.com/rodizio1/EZ-WifiBroadcast
+  - https://discuss.ardupilot.org/t/30km-1080p-60fps-150ms-siyi-hm30-full-hd-digital-video-link-telemetry-radio-system/75189/709
+  - https://av.tib.eu/media/53193
 
 ## Solar RC
 
@@ -57,3 +73,30 @@
 
 - https://en.wikipedia.org/wiki/Real-time_kinematic_positioning
 - https://en.wikipedia.org/wiki/Differential_GPS
+
+## Camera
+
+[Raspberry Pi Cameras - The BIG Picture](https://www.youtube.com/watch?v=MVgr302PNwY)
+
+Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and price – these are all factors to consider when shopping for a camera.
+
+https://www.pcguide.com/raspberry-pi/guide/best-camera/
+
+## Pan tilt camera mount
+
+- https://www.thingiverse.com/thing:4689808
+- https://www.youtube.com/watch?v=CBHTAzudm68
+
+## Goggles
+
+- 20$ https://www.youtube.com/watch?v=yWnN4AwtHcg
+  - https://arvr.google.com/cardboard/
+  - https://www.aniwaa.com/buyers-guide/vr-ar/best-smartphone-vr-headset/
+
+## Head tracking
+
+- https://fpvdogfight.com/products/tally-ho-head-tracker
+- https://developers.google.com/vr/reference/ios-ndk/group/headtracking
+- https://www.hackster.io/news/3d-vr-with-head-tracking-aff7c243083e
+- https://www.avsim.com/forums/topic/527898-mobile-hmd-best-head-tracking-solution/
+- https://www.researchgate.net/publication/230673663_Head-tracking_virtual_3-D_display_for_mobile_devices

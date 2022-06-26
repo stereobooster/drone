@@ -113,6 +113,10 @@ Paid options:
 - https://www.planeprint.com/
 - https://www.rc3dprint.com/planes
 
+DIY schemes:
+
+- https://www.flitetest.com/articles?grid=true#/textSearch=FTScratchBuild&listSort=date_high_to_low
+
 ### Flight controller
 
 - Pixhawk
