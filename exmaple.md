@@ -11,6 +11,11 @@ https://www.banggood.com/Aggressor-1200mm-Wingspan-EPO-FPV-Aircraft-Swept-Forwar
 
 https://www.youtube.com/watch?v=3l2V0inLJb4&list=PLdtQtLk5VzUiuOxbfWGidvaFsgcVkbShk
 
-## Electrycs
+## Electronics
 
 https://www.youtube.com/watch?v=GCBP5DiBvJc
+
+## Mini quad
+
+- https://rotorbuilds.com/build/27249
+- https://www.rcgroups.com/forums/showthread.php?3895087-Diatone-Roma-L3-OpenHD-ExpressLRS-INAV

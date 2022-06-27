@@ -11,6 +11,7 @@
 - https://www.flitetest.com/getting-started
 - [MarioFPV](https://www.youtube.com/channel/UCX2UiZjg485tDoq_Yl4Pysw/videos)
 - https://aviation.stackexchange.com/
+- https://www.miniquadtestbench.com/articles/
 
 ## Courses
 
@@ -41,8 +42,9 @@
 
 ## WiFi-broadcasting and AV1
 
-- https://rubyfpv.com/
+- (closed source) https://rubyfpv.com/
 - https://openhd.gitbook.io/open-hd/general/getting-started
+  - https://www.youtube.com/playlist?list=PL7WaECFssECJWfTc0vKYTfUdH5y8UgdI9
 - https://docs.px4.io/v1.12/en/tutorials/video_streaming_wifi_broadcast.html
   - https://github.com/svpcom/wifibroadcast
   - https://gstreamer.freedesktop.org/documentation/index.html?gi-language=c
@@ -80,7 +82,8 @@
 
 Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and price – these are all factors to consider when shopping for a camera.
 
-https://www.pcguide.com/raspberry-pi/guide/best-camera/
+- https://www.pcguide.com/raspberry-pi/guide/best-camera/
+- https://www.arducam.com/product/64mp-af-for-raspberry-pi/
 
 ## Pan tilt camera mount
 
@@ -100,3 +103,9 @@ https://www.pcguide.com/raspberry-pi/guide/best-camera/
 - https://www.hackster.io/news/3d-vr-with-head-tracking-aff7c243083e
 - https://www.avsim.com/forums/topic/527898-mobile-hmd-best-head-tracking-solution/
 - https://www.researchgate.net/publication/230673663_Head-tracking_virtual_3-D_display_for_mobile_devices
+- https://github.com/opentrack/opentrack/wiki
+- https://iovs.arvojournals.org/article.aspx?articleid=2188451
+- https://www.researchgate.net/publication/221643990_Experience_in_the_design_and_development_of_a_game_based_on_head-tracking_input
+- https://www.semanticscholar.org/paper/A-low-cost-infrared-optical-head-tracking-solution-Deldjoo-Atani/f10be9d1dde22b21c9cad7e5e82fea320b0b8731
+- https://www.mtbs3d.com/phpbb/viewtopic.php?t=4251
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403079/
