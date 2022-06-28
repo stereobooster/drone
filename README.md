@@ -166,7 +166,7 @@ Example:
 
 > - [UHF RC](https://www.youtube.com/watch?v=anLwhavmA1k) (433MHz)
 > - TBS Crossfire (868MHz/915MHz)
-> - [ExpressLRS / ELRS](https://github.com/ExpressLRS/ExpressLRS) (2.4GHz and 868MHz/915MHz)
+> - [ExpressLRS / ELRS](https://www.expresslrs.org/2.0/quick-start/getting-started/) (2.4GHz and 868MHz/915MHz)
 > - TBS Tracer (2.4GHz)
 > - Immersion Ghost (2.4GHz)
 > - FrSky (2.4GHz)

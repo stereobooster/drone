@@ -161,3 +161,48 @@ Simplest FPV https://www.youtube.com/watch?v=2FUDB2lHfMc
 | DVR                |     |            |                     | ?                 |
 | Needs controller   | +   | +          | +                   |                   |
 | OS firmware        | +   |            |                     | +                 |
+
+|     | Telemetry | Remote commands | Video    |
+| --- | --------- | --------------- | -------- |
+| LoS |           | Required        |          |
+| FPV |           | Required        | Required |
+| GCS | Required  | Required        |          |
+
+- [Crossfire vs. Tracer vs. Ghost vs. ExpressLRS vs. R9 vs. ACCESS vs. ACCST | RC control link shootout](https://www.youtube.com/watch?v=a8cy5BK5SbU)
+- https://ardupilot.org/copter/docs/common-rc-systems.html
+- https://ardupilot.org/copter/docs/common-telemetry-landingpage.html#long-range
+
+|            | Telemetry | Remote commands | Video | Frequency      |
+| ---------- | --------- | --------------- | ----- | -------------- |
+| SiK        | +         | ?               |       | 430Mhz, 900MHz |
+| ExpressLRS | +         | +               |       | 900Mhz, 2.4GHz |
+| OpenHD     | +         | +               | +     | 2.4Ghz, 5.8Ghz |
+| Crossfire  | +         | +               |       | 900Mhz         |
+
+Power, Data Rate, Distance, Frequency (indirect influence on distance), Error correction, Ability to reconnect, Can change power (or frequency) depending on the distance.
+
+Smaller frequency - smaller number of channels
+Smaller frequency - bigger distance (depends)
+Smaller frequency - smaller rate
+Smaller frequency - better peentration
+Bigger power - bigger distance
+Bigger power - more noise in closed space
+Bigger power - pigger battery drain and law limitations
+Smaller frequency - more law limitations
+
+Multiple rx/tx
+
+Pros:
+
+- Telemetry may have less rate and bigger distance, while other may have bigger rate less distance
+- Redundancy
+- Telemetry may have omnidirectional anthena and other may have directional anthena and tracker
+
+Cons:
+
+- Bigger cost
+- Bigger weight
+- Bigger power consumption
+- Harder to place all anthenas
+- Need to use different frequencies
+- Bigger interference

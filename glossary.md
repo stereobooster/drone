@@ -1,6 +1,9 @@
 https://github.com/about-code/glossarify-md
 https://marketplace.visualstudio.com/search?term=markdown&target=VSCode&category=All%20categories&sortBy=Relevance
 https://github.com/shd101wyy/markdown-preview-enhanced/issues/1712
+Add icons https://thenounproject.com/search/icons/?iconspage=1&q=controller
+
+https://www.expresslrs.org/2.0/info/glossary/
 
 FPV - First Person View
 LOS - Line Of Sight

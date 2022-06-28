@@ -12,6 +12,7 @@
 - [MarioFPV](https://www.youtube.com/channel/UCX2UiZjg485tDoq_Yl4Pysw/videos)
 - https://aviation.stackexchange.com/
 - https://www.miniquadtestbench.com/articles/
+- https://www.youtube.com/c/KremerFPV
 
 ## Courses
 
@@ -42,7 +43,6 @@
 
 ## WiFi-broadcasting and AV1
 
-- (closed source) https://rubyfpv.com/
 - https://openhd.gitbook.io/open-hd/general/getting-started
   - https://www.youtube.com/playlist?list=PL7WaECFssECJWfTc0vKYTfUdH5y8UgdI9
 - https://docs.px4.io/v1.12/en/tutorials/video_streaming_wifi_broadcast.html
@@ -59,6 +59,12 @@
   - https://github.com/rodizio1/EZ-WifiBroadcast
   - https://discuss.ardupilot.org/t/30km-1080p-60fps-150ms-siyi-hm30-full-hd-digital-video-link-telemetry-radio-system/75189/709
   - https://av.tib.eu/media/53193
+
+### Other
+
+- https://github.com/OpenVTx/OpenVTx
+- (closed source) https://rubyfpv.com/
+- (closed source) https://www.hd-zero.com/technology
 
 ## Solar RC
 
@@ -109,3 +115,7 @@ Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and
 - https://www.semanticscholar.org/paper/A-low-cost-infrared-optical-head-tracking-solution-Deldjoo-Atani/f10be9d1dde22b21c9cad7e5e82fea320b0b8731
 - https://www.mtbs3d.com/phpbb/viewtopic.php?t=4251
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403079/
+
+## Virtual Joystick
+
+- https://discuss.px4.io/t/qgroundcontrol-virtual-joystick-android-boat/26656?u=vitalij_kas_janov
