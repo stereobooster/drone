@@ -15,6 +15,7 @@
 
 - https://www.radiomasterrc.com/collections/tx16s/products/tx16s-mark-ii-radio-controller
   - ELRS ([How much channels](https://www.expresslrs.org/2.0/faq/#how-many-channels-does-elrs-support))
+    - No chanels per se, but we can have CRSF to PWM adapter which will give 4 channels
   - 2.4 GHz
   - EdgeTX
   - Can it be connected to laptop and simulator?
@@ -40,10 +41,16 @@
 
 ### OpenHD
 
+- https://www.youtube.com/watch?v=ODw_qSzMan4
 - 2x Raspberry pi
 - 2x WiFi boards
 - Camera
-  - Which?
+  - Which? https://openhd.gitbook.io/open-hd/hardware/cameras
+  - latency (fps 60, speed of transmittion from camera to board)
+  - quality (lens width, resolution 1080p, size of matrix, other chipset features)
+  - size of tranmsition (codec, h.265?)
+- TouchScreen ?
+- Estimate cost
 
 ### GCP
 
@@ -52,4 +59,4 @@
   - Which?
 - GPS + compass
 - RX
-  - ELRS or Sik Telemetry
+  - I guess SiK Telemetry

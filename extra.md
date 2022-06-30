@@ -43,6 +43,10 @@
 
 ## WiFi-broadcasting and AV1
 
+There is no hardware acceleration for AV1, so no streaming.
+
+[NEON](https://tttapa.github.io/Pages/Raspberry-Pi/NEON/index.html) can be used to speed up h.265 encoding
+
 - https://openhd.gitbook.io/open-hd/general/getting-started
   - https://www.youtube.com/playlist?list=PL7WaECFssECJWfTc0vKYTfUdH5y8UgdI9
 - https://docs.px4.io/v1.12/en/tutorials/video_streaming_wifi_broadcast.html

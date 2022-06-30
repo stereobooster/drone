@@ -148,6 +148,11 @@ digraph roadmap{
 - Determine how all parts would interact in the end
 
 Simplest LoS https://www.youtube.com/watch?v=4ghxT9Di0Ag
+
+- https://www.youtube.com/watch?v=lKw_jM2-JK8
+- https://www.youtube.com/watch?v=3X2fknwE7SI
+- Pulse-width modulation (PWM)
+
 Simplest FPV https://www.youtube.com/watch?v=2FUDB2lHfMc
 
 |                    | RX  | Stabilizer | Stabilizer with GPS | Flight controller |
@@ -184,19 +189,19 @@ Power, Data Rate, Distance, Frequency (indirect influence on distance), Error co
 Smaller frequency - smaller number of channels
 Smaller frequency - bigger distance (depends)
 Smaller frequency - smaller rate
-Smaller frequency - better peentration
+Smaller frequency - better penetration
 Bigger power - bigger distance
 Bigger power - more noise in closed space
-Bigger power - pigger battery drain and law limitations
+Bigger power - bigger battery drain and law limitations
 Smaller frequency - more law limitations
 
 Multiple rx/tx
 
 Pros:
 
-- Telemetry may have less rate and bigger distance, while other may have bigger rate less distance
+- Telemetry may have less rate and bigger distance, while other may have bigger rate and less distance
 - Redundancy
-- Telemetry may have omnidirectional anthena and other may have directional anthena and tracker
+- Telemetry may have omnidirectional anthena and other may have directional anthena and AAT
 
 Cons:
 

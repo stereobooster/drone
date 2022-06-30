@@ -181,6 +181,12 @@ Old:
 - https://github.com/openLRSng
 - https://github.com/DTFUHF
 
+Protocols:
+
+- https://github.com/betaflight/betaflight/blob/master/src/main/rx/crsf.c
+- https://oscarliang.com/rc-protocols/
+- https://ww1.microchip.com/downloads/en/AppNotes/USART-in-One-Wire-Mode-ApplicationNote-DS00002658.pdf
+
 ## GCS
 
 - iNav https://www.rcgroups.com/forums/showatt.php?attachmentid=11240545&d=1538097119
