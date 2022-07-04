@@ -60,3 +60,48 @@
 - GPS + compass
 - RX
   - I guess SiK Telemetry
+
+# Parts
+
+[Blue stick: 15 Euero, 2.4 GHz, no diversity](https://www.aliexpress.com/item/4000051464939.html)
+
+[anthena 5 Euero, 2.4 GHz](https://www.aliexpress.com/item/1005001968013220.html)
+
+Raspberry pi 4 50-100 Euero
+
+Pi Cam HQ 50Euero + lens
+
+Touchscreen 70Euero
+
+**Total**: About 330?
+
+Problem 2.4 Ghz may interfer with ELRS on joystick
+
+ELRS900 TX + RX 30 euro
+
+Joystick 200 euro
+
+Wing 100 euro
+
+Motor, servos, esc, battery (look in wing spec)
+
+FC ?
+
+https://www.youtube.com/watch?v=nsergu_J1vM
+
+- [F405, 63 Euro](https://www.banggood.com/30_5+30_5mm-Matek-System-F405-HDTE-Flight-Controller-5V-1_5A-BEC-for-FPV-Racing-RC-Drone-p-1958580.html?cur_warehouse=CN&rmmds=search)
+- F745 copter
+- [F765 wing, 83 Euro](https://www.banggood.com/Matek-Systems-F765-WSE-STM32F765VIh6-Flight-Controller-Built-in-OSD-for-RC-Airplane-Fixed-Wing-p-1890404.html?cur_warehouse=CN&rmmds=search)
+- H743
+
+Copter ?
+
+[Sik 900MHz, 60 euro](https://shop.holybro.com/sik-telemetry-radio-v3_p1103.html?)
+
+[Sik 433MHz, 60 euro](https://store.mrobotics.io/product-p/mro-sikv2airgnd-mr.htm)
+
+[Mapple](https://www.aliexpress.com/item/1005001638854607.html?spm=a2g0o.productlist.0.0.6a8195c3HgygiI&algo_pvid=a542ed57-5da1-4ce2-a5ef-44ed955e6529&algo_exp_id=a542ed57-5da1-4ce2-a5ef-44ed955e6529-1&pdp_ext_f=%7B"sku_id"%3A"12000016928054435"%7D&pdp_npi=2%40dis%21EUR%21%2126.49%21%21%21%21%21%402103399116565939874605014e5867%2112000016928054435%21sea)
+
+[Mapple](https://www.aliexpress.com/item/32989509234.html?spm=a2g0o.detail.1000014.4.5c0b26eaWvxUbk&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.281175.0&scm_id=1007.40050.281175.0&scm-url=1007.40050.281175.0&pvid=43dbde8d-9846-4742-b1a5-65feef3dae08&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.281175.0,pvid:43dbde8d-9846-4742-b1a5-65feef3dae08,tpp_buckets:668%232846%238110%231995&pdp_ext_f=%7B"sku_id"%3A"66866394036"%2C"sceneId"%3A"30050"%7D&pdp_npi=2%40dis%21EUR%21%2119.9%21%21%21%21%21%402101d1bd16565929613467802ec396%2166866394036%21rec)
+
+[lollipop](https://www.aliexpress.com/item/32813557046.html?spm=a2g0o.productlist.0.0.25484c57Bvh2Ur&algo_pvid=b557cc36-7b31-4022-9f67-fb142501cbc3&algo_exp_id=b557cc36-7b31-4022-9f67-fb142501cbc3-0&pdp_ext_f=%7B"sku_id"%3A"64655346262"%7D&pdp_npi=2%40dis%21EUR%21%214.65%21%21%21%21%21%402101d91e16566002541885828e150a%2164655346262%21sea)

@@ -1,3 +1,5 @@
+https://www.xgadget.de/news/aliexpress-mit-versandeinschraenkungen-nach-deutschland/
+
 ## Blogs
 
 - CNC Kitchen [HOW TO 3D PRINT your own RC AIRPLANE](https://www.youtube.com/watch?v=Ztygn--BsjI&list=PLEOQTmIWJ_rnHDVqxPP-GQNJ1UcQ-eF2q&index=7)
@@ -14,6 +16,10 @@
 - https://www.miniquadtestbench.com/articles/
 - https://www.youtube.com/c/KremerFPV
 
+## Law
+
+- [What are the rules to fly your drone in 2022?](https://www.youtube.com/watch?v=oyE2x9B0CVA)
+
 ## Courses
 
 - https://techexplorations.com/so/drone/
@@ -22,15 +28,18 @@
 
 - 15$ [DIY Antenna Tracker by zs6buj OpenHD Skywalker 1720 INAV 2.6](https://www.youtube.com/watch?v=lrymGzePcmE)
   - https://www.rcgroups.com/forums/showthread.php?2942118-Build-a-Reliable-and-Cheap-Antenna-Tracker-this-Weekend-%C2%96-by-zs6buj
+  - https://github.com/zs6buj/AntTracker
+  - https://dannypsnl.github.io/blog/2022/01/04/cs/arduino-zig-blink/
 - [The Sentinel Antenna Tracker does not need telemetry (kind of)](https://www.youtube.com/watch?v=GbPk39z_-e8)
+  - https://www.virtualpilot.co.uk/index.php?route=product%2Fproduct&product_id=59
   - [New product - low cost antenna tracker for iNav / Betaflight / Ardupilot /KISS /etc](https://www.rcgroups.com/forums/showthread.php?3815901-New-product-low-cost-antenna-tracker-for-iNav-Betaflight-Ardupilot-KISS-etc)
+- 2021 https://github.com/raul-ortega/u360gts
 - 2021 https://github.com/brinuk/Antenna-Tracker-for-FRsky-Telemetry
 - 2020 https://github.com/kolins-cz/antenna-tracker-mechanics
 - https://ardupilot.org/antennatracker/index.html
 - https://ardupilot.org/plane/docs/common-sik-telemetry-radio.html#common-sik-telemetry-radio
 - [A Portable UAV Tracking System for Communications and Video Transmission](https://www.researchgate.net/publication/339662008_A_Portable_UAV_Tracking_System_for_Communications_and_Video_Transmission)
 - [DIY Simple RSSI Antenna Tracker using Arduino for less than $50!](https://www.youtube.com/watch?v=GGtqUXKE-ro)
-- [DIY Helical FPV Antenna](https://www.youtube.com/watch?v=fS7MKYkKN-A)
 - https://www.semanticscholar.org/paper/Design%2C-fabrication%2C-and-testing-of-a-helical-using-Ghassemiparvin-Ghalichechian/a4d653817326f3ff1685ee8825c703731cced948
 - https://pdfs.semanticscholar.org/f657/428477685a099bf597b364fded87bd94db92.pdf
 - https://hackaday.com/2020/08/04/a-hybrid-helical-antenna-for-the-eshail-2-geosynchronous-repeater/
@@ -49,6 +58,7 @@ There is no hardware acceleration for AV1, so no streaming.
 
 - https://openhd.gitbook.io/open-hd/general/getting-started
   - https://www.youtube.com/playlist?list=PL7WaECFssECJWfTc0vKYTfUdH5y8UgdI9
+  - [Upcoming hardware developments for Open.HD](https://www.youtube.com/watch?v=7OrHjozbfH4)
 - https://docs.px4.io/v1.12/en/tutorials/video_streaming_wifi_broadcast.html
   - https://github.com/svpcom/wifibroadcast
   - https://gstreamer.freedesktop.org/documentation/index.html?gi-language=c
@@ -123,3 +133,18 @@ Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and
 ## Virtual Joystick
 
 - https://discuss.px4.io/t/qgroundcontrol-virtual-joystick-android-boat/26656?u=vitalij_kas_janov
+
+## Ducted propeller
+
+- https://www.youtube.com/watch?v=ofa_ThJA1Ac&list=PLVycQlcnCKVhIy-MFCLm8QenNI-1uomKf&index=15
+- https://www.youtube.com/watch?v=ujCK-SfxDDc
+
+## Laser
+
+- https://www.youtube.com/c/styropyro
+
+## Blimp
+
+A blimp, or non-rigid airship, is an airship (dirigible) without an internal structural framework or a keel. Unlike semi-rigid and rigid airships (e.g. Zeppelins), blimps rely on the pressure of the lifting gas (usually helium, rather than hydrogen) inside the envelope and the strength of the envelope itself to maintain their shape.
+
+- https://diydrones.com/profiles/blogs/rc-airship-as-drone

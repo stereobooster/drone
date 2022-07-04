@@ -112,6 +112,8 @@ Paid options:
 - https://www.eclipson-airplanes.com/
 - https://www.planeprint.com/
 - https://www.rc3dprint.com/planes
+- https://specrom.tilda.ws/specrom_en#rec458420486
+  - https://www.youtube.com/watch?v=1vr52fLOnNo
 
 DIY schemes:
 

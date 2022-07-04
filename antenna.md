@@ -2,6 +2,24 @@
 - https://www.antenna-theory.com/basics/gain.php
 - https://oscarliang.com/best-fpv-antenna/
 
+## DIY
+
+- https://buildyourownantenna.blogspot.com/2014/07/double-biquad-sector-antenna-for-2450-mhz-wifi.html
+- [DIY Helical FPV Antenna](https://www.youtube.com/watch?v=fS7MKYkKN-A)
+
+## Genetical algorithm
+
+- https://www.youtube.com/watch?v=RnOdtLyNceI
+- https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1426&context=smallsat
+- https://arxiv.org/pdf/2112.03246.pdf
+- https://www.hindawi.com/journals/ijap/2014/729208/
+- https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.642.6523&rep=rep1&type=pdf
+- https://www.researchgate.net/publication/3010661_Genetic_Algorithms_in_the_Design_and_Optimization_of_Antenna_Array_Patterns
+- https://www.researchgate.net/publication/228909002_Automated_Antenna_Design_with_Evolutionary_Algorithms
+- https://www.diva-portal.org/smash/get/diva2:792172/FULLTEXT01.pdf
+
+## Other
+
 To increase distance:
 
 - Increase transmitter power
