@@ -17,6 +17,12 @@
 - https://www.researchgate.net/publication/3010661_Genetic_Algorithms_in_the_Design_and_Optimization_of_Antenna_Array_Patterns
 - https://www.researchgate.net/publication/228909002_Automated_Antenna_Design_with_Evolutionary_Algorithms
 - https://www.diva-portal.org/smash/get/diva2:792172/FULLTEXT01.pdf
+- https://www.diva-portal.org/smash/get/diva2:1312395/FULLTEXT01.pdf
+- https://johngrant.medium.com/antenna-arrays-and-python-introduction-8e3b612ecdfb
+- https://pylayers.github.io/pylayers/notebook/TOC.html#overview
+- https://eadf.readthedocs.io/class.html
+- https://aemantennas.com/2022/05/09/professional-antenna-design-software/
+- https://aip.scitation.org/doi/pdf/10.1063/5.0013523
 
 ## Other
 
