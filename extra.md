@@ -21,6 +21,8 @@ https://www.xgadget.de/news/aliexpress-mit-versandeinschraenkungen-nach-deutschl
 ## Law
 
 - [What are the rules to fly your drone in 2022?](https://www.youtube.com/watch?v=oyE2x9B0CVA)
+- https://drone-laws.com/drone-laws-in-germany/#Agencies_Responsible_for_regulating_drones_in_the_Federal_Republic_of_Germany
+- https://www.lba.de/DE/Drohnen/Drohnen_node.html
 
 ## Courses
 
