@@ -114,6 +114,7 @@ Paid options:
 - https://www.rc3dprint.com/planes
 - https://specrom.tilda.ws/specrom_en#rec458420486
   - https://www.youtube.com/watch?v=1vr52fLOnNo
+- http://www.rc-jetprint.com/
 
 DIY schemes:
 

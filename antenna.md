@@ -24,6 +24,23 @@
 - https://aemantennas.com/2022/05/09/professional-antenna-design-software/
 - https://aip.scitation.org/doi/pdf/10.1063/5.0013523
 
+## MIMO
+
+In radio, multiple-input and multiple-output, or MIMO, is a method for multiplying the capacity of a radio link using multiple transmission and receiving antennas to exploit multipath propagation. MIMO has become an essential element of wireless communication standards including IEEE 802.11n (Wi-Fi 4), IEEE 802.11ac (Wi-Fi 5), HSPA+ (3G), WiMAX, and Long Term Evolution (LTE). More recently, MIMO has been applied to power-line communication for three-wire installations as part of the ITU G.hn standard and of the HomePlug AV2 specification.
+
+Multi-antenna MIMO (or single-user MIMO) technology has been developed and implemented in some standards, e.g., 802.11n products.
+
+- SISO/SIMO/MISO are special cases of MIMO.
+  - Multiple-input single-output (MISO) is a special case when the receiver has a single antenna.
+  - Single-input multiple-output (SIMO) is a special case when the transmitter has a single antenna.
+  - Single-input single-output (SISO) is a conventional radio system where neither transmitter nor receiver has multiple antennas.
+- Principal single-user MIMO techniques
+  - Bell Laboratories Layered Space-Time (BLAST), Gerard. J. Foschini (1996)
+  - Per Antenna Rate Control (PARC), Varanasi, Guess (1998), Chung, Huang, Lozano (2001)
+  - Selective Per Antenna Rate Control (SPARC), Ericsson (2004)
+- Some limitations
+  - The physical antenna spacing is selected to be large; multiple wavelengths at the base station. The antenna separation at the receiver is heavily space-constrained in handsets, though advanced antenna design and algorithm techniques are under discussion. Refer to: multi-user MIMO
+
 ## Other
 
 To increase distance:

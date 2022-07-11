@@ -17,6 +17,7 @@ https://www.xgadget.de/news/aliexpress-mit-versandeinschraenkungen-nach-deutschl
 - https://www.youtube.com/c/KremerFPV
 - https://www.youtube.com/channel/UCW-6NTNX1Xk515R1r3BUWsA
 - https://www.youtube.com/c/ChrisRosser
+- https://www.youtube.com/c/WezleyVarty
 
 ## Law
 
