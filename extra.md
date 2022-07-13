@@ -18,6 +18,7 @@ https://www.xgadget.de/news/aliexpress-mit-versandeinschraenkungen-nach-deutschl
 - https://www.youtube.com/channel/UCW-6NTNX1Xk515R1r3BUWsA
 - https://www.youtube.com/c/ChrisRosser
 - https://www.youtube.com/c/WezleyVarty
+- https://www.youtube.com/c/RyanQuellet
 
 ## Law
 
@@ -143,6 +144,7 @@ Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and
 
 - https://www.youtube.com/watch?v=ofa_ThJA1Ac&list=PLVycQlcnCKVhIy-MFCLm8QenNI-1uomKf&index=15
 - https://www.youtube.com/watch?v=ujCK-SfxDDc
+- https://www.youtube.com/watch?v=I2lxGYplpMA
 
 ## Laser
 

@@ -16,6 +16,7 @@
 - https://www.radiomasterrc.com/collections/tx16s/products/tx16s-mark-ii-radio-controller
   - ELRS ([How much channels](https://www.expresslrs.org/2.0/faq/#how-many-channels-does-elrs-support))
     - No chanels per se, but we can have CRSF to PWM adapter which will give 4 channels
+    - 12 chanels in v3
   - 2.4 GHz
   - EdgeTX
   - Can it be connected to laptop and simulator?
