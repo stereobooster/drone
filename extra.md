@@ -155,3 +155,15 @@ Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and
 A blimp, or non-rigid airship, is an airship (dirigible) without an internal structural framework or a keel. Unlike semi-rigid and rigid airships (e.g. Zeppelins), blimps rely on the pressure of the lifting gas (usually helium, rather than hydrogen) inside the envelope and the strength of the envelope itself to maintain their shape.
 
 - https://diydrones.com/profiles/blogs/rc-airship-as-drone
+
+## ESC
+
+- https://www.youtube.com/watch?v=7WeHTb7aBrE
+
+## Jet engine
+
+- https://www.youtube.com/watch?v=dYFYZ-g7fzA
+- https://www.youtube.com/watch?v=C2OmUBpn66k
+- https://www.youtube.com/watch?v=MgL0GW248mE
+- https://www.autodesk.com/products/fusion-360/personal
+- https://thangs.com/
