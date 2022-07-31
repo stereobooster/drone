@@ -142,6 +142,7 @@ Megapixels, resolution, video, FPS, form factor, lens mounts, viewing angle, and
 
 ## Ducted propeller
 
+- https://www.youtube.com/watch?v=QccRbsZVg1Y
 - https://www.youtube.com/watch?v=ofa_ThJA1Ac&list=PLVycQlcnCKVhIy-MFCLm8QenNI-1uomKf&index=15
 - https://www.youtube.com/watch?v=ujCK-SfxDDc
 - https://www.youtube.com/watch?v=I2lxGYplpMA
@@ -165,5 +166,6 @@ A blimp, or non-rigid airship, is an airship (dirigible) without an internal str
 - https://www.youtube.com/watch?v=dYFYZ-g7fzA
 - https://www.youtube.com/watch?v=C2OmUBpn66k
 - https://www.youtube.com/watch?v=MgL0GW248mE
+- https://www.youtube.com/c/AgentJayZ
 - https://www.autodesk.com/products/fusion-360/personal
 - https://thangs.com/

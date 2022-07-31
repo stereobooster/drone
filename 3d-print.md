@@ -1,0 +1,2 @@
+- [0.4mm nozzles just became obsolete](https://www.youtube.com/watch?v=WgXM2zPusXo)
+-
